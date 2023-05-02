@@ -1,4 +1,4 @@
-# magic_ball
+# flutter_app
 
 A new Flutter project.
 
